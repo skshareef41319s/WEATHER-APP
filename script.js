@@ -1,4 +1,6 @@
-const apiKey = "d61e3ea4f290ed145c38d53acd59c304";
+require('dotenv').config();
+
+const API_KEY = process.env.API_KEY;
 
 async function getWeather(url) {
     try {
