@@ -63,13 +63,10 @@ Contributions are welcome! If you have suggestions or improvements, feel free to
    ```
 5. **Open a pull request.**
 
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
 ## Contact
 For any questions or feedback, please contact:
 - **Name:** Sk Shareef
-- **Email:** [your-email@example.com](mailto:your-email@example.com)
+- **Email:** [skshareef41319@gmail.com](mailto:skshareef41319@gmail.com)
 - **GitHub:** [skshareef41319s](https://github.com/skshareef41319s)
 
 ---
