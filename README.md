@@ -1,16 +1,5 @@
 # WEATHER-APP
 
-## Table of Contents
-- [Introduction](#introduction)
-- [Features](#features)
-- [Technologies Used](#technologies-used)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
-
-## Introduction
 The Weather App is a web-based application that provides current weather information and forecasts for various locations. It is designed to be user-friendly and visually appealing, offering real-time weather updates.
 
 ## Features
